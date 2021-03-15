@@ -19,7 +19,8 @@
         "diablomedia/zendframework1-controller": "^1.0.0",
         "diablomedia/zendframework1-db": "^1.0.0",
         "diablomedia/zendframework1-filter": "^1.0.0",
-        "diablomedia/zendframework1-view": "^1.0.0"
+        "diablomedia/zendframework1-view": "^1.0.0",
+        "diablomedia/zendframework1-xml": "^1.0.5"
     },
     "autoload": {
         "psr-0": {
